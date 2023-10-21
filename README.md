@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=My%20Tech%20Stack&fontSize=40)
 <br>
 -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
+
+### 📧 E-mail
+<p> sjahnsj@gmail.com </p>
+
 ### 💻 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
