@@ -1,4 +1,3 @@
-# sjahnsj.github.io
 ### Hi there 👋
 
 <!--
