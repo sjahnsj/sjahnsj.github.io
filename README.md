@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
 
-### 📧 E-mail
+### <a href="mailto:example@github.com">📧 E-mail</a>
 sjahnsj@gmail.com
 
 ### 💻 Tech Stack
