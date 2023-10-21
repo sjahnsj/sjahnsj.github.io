@@ -57,6 +57,6 @@ mySelf = {
                      ()=>console.log("Binge Watching"), ()=>console.log("Eating")]
 }
 ```
-### Portfolio
-[Goto my portfolio](./portfolio.md)  
+### 📚 Portfolio
+[Goto My Portfolio](./portfolio.md)  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)
