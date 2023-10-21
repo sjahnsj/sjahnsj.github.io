@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 ```
 // Object of mySelf is to work together
 mySelf = {
-  name = "안승진",
-  place = "서울",
-  degree = {
-    bachelors = "Electrical Engineering",
-    masters = "Computer Engineering"
+  name : "안승진",
+  place : "서울",
+  degree : {
+    bachelors : "Electrical Engineering",
+    masters : "Computer Engineering"
   },
-  career = ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
-  company = ["SamSung Electronincs", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
-  favoriteActivty = [()=>console.log("Coding"), ()=>console.log("Swimming"),
+  career : ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
+  company : ["SamSung Electronincs", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
+  favoriteActivty : [()=>console.log("Coding"), ()=>console.log("Swimming"),
                      ()=>console.log("Binge Watching"), ()=>console.log("Eating")]
 }
 ```
