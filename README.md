@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
 
-### <a href="mailto:example@github.com">📧 E-mail</a>
-sjahnsj@gmail.com
+### <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
+<a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a>
 
 ### 💻 Tech Stack
 <p>
