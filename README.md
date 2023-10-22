@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+### <span style="color:gray">Hi there</span> 👋🏻
 <!--
 **sjahnsj/sjahnsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
