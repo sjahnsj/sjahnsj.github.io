@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 </div>
 
 ### 🧑🏻‍💻 Profile
-```
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
+<code>
 // Object of mySelf is to work together
 mySelf = {
   name : "안승진",
@@ -74,10 +75,12 @@ mySelf = {
   favoriteActivty : [()=>console.log("Coding"), ()=>console.log("Swimming"),
                      ()=>console.log("Binge Watching"), ()=>console.log("Eating")]
 }
-```
+</code>
+</div>
 
 ### 📚 Portfolio
 <div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
+<a href="./portfolio.md">Goto My Portfolio</a>
 [Goto My Portfolio](./portfolio.md)  
 </div>
 
