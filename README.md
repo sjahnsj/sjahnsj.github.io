@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 150px" >
 
 
-<div style="font-size:35px; text-align:center; color: "#3e9691">
+<div style="font-size:35px; text-align:center; color: #3e9691">
 안녕하세요 
 안승진 입니다
 </div>
