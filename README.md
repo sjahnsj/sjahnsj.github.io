@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=My%20Tech%20Stack&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)
+<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 150px" >
 <br>
 -->
 
-
-<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 150px" >
+<div style="display:flex; justify-content:space-between; align-items:center">
+<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black;" >
 
 
 <div style="font-size:45px; font-weight:bold; text-align:center; color: #3e9691">
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 <div style="border-radius: 10px; box-shadow: 0px 0px 5px black;">
 <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
+</div>
 </div>
 
 
