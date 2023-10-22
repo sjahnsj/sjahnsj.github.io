@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-flow:wrap; justify-content:space-around; align-items:center">
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 15px black;" >
 
-<div style="border-radius: 10px; box-shadow: 2px 2px 15px black; padding:10px; background-color:#F6F8FA; margin-top:10px">
+<div style="border-radius: 10px; box-shadow: 2px 2px 15px black; padding:10px; background-color:#F6F8FA; margin-top:25px">
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #3e9691">
 안녕하세요&nbsp; 안승진 입니다
 </div>
@@ -78,7 +78,7 @@ mySelf = {
 ```
 
 ### 📚 Portfolio
-**_[<span style="font-size:20px; background-color:black; color:orange;"> 포트폴리오 보기 </span>](./portfolio.md)_**  
+**_[<span style="font-size:20px; background-color:black; color:orange;"> &nbsp;포트폴리오 보기 &nbsp; </span>](./portfolio.md)_**  
 
 
 
