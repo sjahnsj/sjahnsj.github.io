@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #3e9691">
 안녕하세요&nbsp; 안승진 입니다
 </div>
-<div style="border-radius: 10px; box-shadow: 0px 0px 5px black; padding:10px">
+<div style="border-radius: 10px; box-shadow: 10px 10px 5px black; padding:10px">
 <a style="font-size:20px; font-weight:bold;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
