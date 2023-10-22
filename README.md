@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 안녕하세요&nbsp; 안승진 입니다
 </div>
 <div style="border-radius: 10px; box-shadow: 0px 0px 5px black; padding:10px">
-<a href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
+<a style="font-size:20px;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
 </div>
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vim-000000?style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
+### 🧑🏻‍💻 Profile
 ```
 // Object of mySelf is to work together
 mySelf = {
