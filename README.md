@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
 
-<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 200px" >
+<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 150px" >
 
 
-<div style="color:orange">
-👋 안녕하세요
-안승진 입니다
-<a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
-<a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a>
+<div style="font-size:25px">
+👋 안녕하세요 <br>
+안승진 입니다 <br>
+<a href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
+<a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
 <br>
 
