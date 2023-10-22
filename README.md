@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 </div>
 
 <div class=pull-right>
-### 안녕하세요 안승진 입니다.
-### <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
+안녕하세요 안승진 입니다.
+<a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a>
 </div>
 
