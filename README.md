@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 200px" >
 
 
-
-<h2>👋 안녕하세요</h2>
-<h2>안승진 입니다</h2>
-### <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
+<div style="color:orange">
+👋 안녕하세요
+안승진 입니다
+<a href="mailto:sjahnsj@gmail.com">📧 E-mail</a>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a>
+</div>
 <br>
 
 ### 💻 Tech Stack
