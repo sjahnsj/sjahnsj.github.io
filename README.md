@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-flow:wrap; justify-content:space-around; align-items:center">
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black;" >
 
-<div>
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #3e9691">
 안녕하세요&nbsp; 안승진 입니다
 </div>
-<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
+<div >
 <a style="font-size:20px; font-weight:bold;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Tech Stack
-<div style="background-color:#F6F8FA"">
+<div style="background-color:#F6F8FA">
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
