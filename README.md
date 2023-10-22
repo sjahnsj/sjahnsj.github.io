@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Tech Stack
-<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
+<div style="background-color:#F6F8FA"">
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔨 Tool  
-<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
+<div style="background-color:#F6F8FA">
 <p>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
