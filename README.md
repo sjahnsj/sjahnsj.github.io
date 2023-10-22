@@ -1,4 +1,3 @@
-<body style="background-color:gray">
 ### Hi there 👋🏻
 <!--
 **sjahnsj/sjahnsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,4 +74,4 @@ mySelf = {
 ### 📚 Portfolio
 [Goto My Portfolio](./portfolio.md)  
 
-</body>
+
