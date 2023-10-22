@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 안녕하세요 <br>
 안승진 입니다
 </div>
-<div style="border-radius: 10px; box-shadow: 0px 0px 5px black;>
+<div style="border-radius: 10px; box-shadow: 0px 0px 5px black;">
 <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
