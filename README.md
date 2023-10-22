@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Tech Stack
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pandas-2222aa?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-dddd00?style=for-the-badge&logo=spring&logoColor=black"/>
 </p>
+</div>
 
 ### 🔨 Tool  
 <p>
