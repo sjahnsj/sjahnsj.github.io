@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=My%20Tech%20Stack&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)
 <br>
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=안%20승%20진%20%20%20%20-nl-S.J.%20Ahn&fontAlignY=20&fontAlignY=50&fontSize=43&fontColor=ffffff&animation=twinkling)
+
 
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black; float:left; margin-right: 150px" >
 
 
-<div style="font-size:25px">
+<div style="font-size:25px; text-align:center">
 👋 안녕하세요 <br>
 안승진 입니다 <br>
 <a href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
@@ -67,4 +69,4 @@ mySelf = {
 ```
 ### 📚 Portfolio
 [Goto My Portfolio](./portfolio.md)  
-![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)
+
