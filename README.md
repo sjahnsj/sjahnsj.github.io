@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 15px black;" >
 
 <div style="border-radius: 10px; box-shadow: 2px 2px 15px black; padding:10px; background-color:#F6F8FA; margin-top:25px">
-<div style="font-size:35px; font-weight:bold; text-align:center; color: #0365d6">
+<div style="font-size:35px; font-weight:bold; text-align:center; color: #78accf">
 안녕하세요&nbsp; 안승진 입니다
 </div>
 <div >
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 💻 <span style="color=gray">Tech Stack</span>
+### 💻 <span style="color:gray">Tech Stack</span>
 <div style="background-color:#F6F8FA; padding:15px">
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
