@@ -50,12 +50,14 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔨 Tool  
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
 <p>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/vim-000000?style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
+</div>
 
 ### 🧑🏻‍💻 Profile
 ```
@@ -73,7 +75,10 @@ mySelf = {
                      ()=>console.log("Binge Watching"), ()=>console.log("Eating")]
 }
 ```
+
 ### 📚 Portfolio
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px">
 [Goto My Portfolio](./portfolio.md)  
+</div>
 
 
