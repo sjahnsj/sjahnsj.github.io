@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-flow:wrap; justify-content:space-around; align-items:center">
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 15px black;" >
 
-<div style="padding:10px; background-color:#ceedf2; margin-top:25px">
+<div style="padding:10px; background:linear-gradient(to bottom, #ceedf2, white); margin-top:25px">
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #488bb8">
 안녕하세요&nbsp; 안승진 입니다
 </div>
