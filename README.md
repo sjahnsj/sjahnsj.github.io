@@ -78,7 +78,7 @@ mySelf = {
 ```
 
 ### 📚 Portfolio
-**_[<span style="background-color:black; color:orange;">Goto My Portfolio</span>](./portfolio.md)_**  
+**_[<span style="background-color:black; color:orange;"> 포트폴리오 보기 </span>](./portfolio.md)_**  
 
 
 
