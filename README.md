@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋🏻
 <!--
 **sjahnsj/sjahnsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 안녕하세요&nbsp; 안승진 입니다
 </div>
 <div style="border-radius: 10px; box-shadow: 0px 0px 5px black; padding:10px">
-<a style="font-size:20px;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
+<a style="font-size:20px; font-weight:bold;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 </div>
 </div>
