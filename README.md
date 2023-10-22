@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div style="display:flex; flex-flow:wrap; justify-content:space-around; align-items:center">
 <img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 5px black;" >
 
-<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:20px">
+<div style="border-radius: 10px; box-shadow: 6px 6px 5px gray; padding:10px; background-color:#F6F8FA;">
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #3e9691">
 안녕하세요&nbsp; 안승진 입니다
 </div>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Tech Stack
-<div style="background-color:#F6F8FA; padding:20px">
+<div style="background-color:#F6F8FA; padding:15px">
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 🔨 Tool  
-<div style="background-color:#F6F8FA; padding:20px">
+<div style="background-color:#F6F8FA; padding:15px">
 <p>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
