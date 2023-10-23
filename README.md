@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div >
 <a style="font-size:20px; font-weight:bold; color:gray;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a style="color:gray;" href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
-<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=GitHub&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHUB-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 </div>
 </div>
