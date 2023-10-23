@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex; flex-flow:wrap; justify-content:space-around; align-items:center">
-<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 2px 2px 15px black;" >
+<img src="./myself.jpg"  width="250px" style="border-radius: 50%; box-shadow: 0px 0px 20px gray;" >
 
-<div style="padding:10px; background:radial-gradient(circle at center, #ceedf2, white); margin-top:25px">
+<div style="padding:10px; background-color:#F6F8FA; margin-top:25px">
 <div style="font-size:35px; font-weight:bold; text-align:center; color: #488bb8">
 안녕하세요&nbsp; 안승진 입니다
 </div>
