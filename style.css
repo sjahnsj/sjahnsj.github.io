@@ -11,7 +11,7 @@ a, a:link, a:visited {
 }
 
 ul {
-    margin-left: 5px;
+    margin-left: 15px;
 }
 
 
@@ -28,7 +28,7 @@ body {
 /**** portfolio ***/
 h1 {
     font-size: 3rem;
-    margin-botton: 20px;
+    margin-botton: 30px;
 }
 .bg {
     margin-top: 10%;
