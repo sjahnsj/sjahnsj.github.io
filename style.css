@@ -28,6 +28,10 @@ body {
 
 
 /**** portfolio ***/
+.title {
+    display:flex;
+    justify-content:space-between;
+}
 h1 {
     font-size: 3rem;
     margin-botton: 30px;
