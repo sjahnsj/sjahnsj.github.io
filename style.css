@@ -23,7 +23,9 @@ li {
 
 
 /**** portfolio ***/
-
+.bg {
+    background-color: #aaa;
+}
 section .pofolio-me .portfolio-inner{
     width: 30%;
     margin-right: 5%;
