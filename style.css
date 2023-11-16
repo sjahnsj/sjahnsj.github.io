@@ -6,10 +6,12 @@
 }
 
 a, a:link, a:visited {
-    color: inherit;
     text-decoration: none;
+    font-size: 3rem;
 }
-
+a:hover {
+    color : "orage";
+}
 ul {
     margin-left: 15px;
 }
