@@ -6,19 +6,19 @@
 }
 
 a, a:link, a:visited {
-    color: "black";
+    color: #000;
     text-decoration: none;
     font-size: 3rem;
 }
 a:hover {
-    color: "orange";
+    color: #880;
 }
 ul {
     margin-left: 25px;
 }
 
 .btn-link {
-    color: "black";
+    color: #000;
     text-decoration: none;
     padding: 5px;
     border: 1px solid #555;
