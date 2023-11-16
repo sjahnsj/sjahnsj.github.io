@@ -82,7 +82,7 @@ mySelf = {
 ```
 
 ### 📚 <span style="color:gray">Portfolio</span>
-**_[<span style="font-size:20px; background-color:black; color:orange;"> &nbsp;포트폴리오 보기 &nbsp; </span>](./portfolio.md)_**  
+**_[<span style="font-size:20px; background-color:black; color:orange;"> &nbsp;포트폴리오 보기 &nbsp; </span>](./portfolio.html)_**  
 
 
 
