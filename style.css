@@ -23,8 +23,8 @@ ul {
 .btn-link {
     color: #000;
     text-decoration: none;
-    padding: 2px;
-    border: 1px solid #555;
+    padding: 0px 5px;
+    border: 1px solid #aaa;
     border-radius: 3px;
     
 }
