@@ -19,11 +19,14 @@ li {
     margin: 0 auto;
 }
 
-
+body {
+    background-color: #aaa;
+}
 
 
 /**** portfolio ***/
 .bg {
+    margin-top: 10%;
     background-color: #aaa;
 }
 section .pofolio-me .portfolio-inner{
