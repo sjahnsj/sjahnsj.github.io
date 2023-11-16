@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/vim-000000?style=for-the-badge&logo=vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 </div>
 
