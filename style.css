@@ -42,6 +42,7 @@ body {
 .title {
     display:flex;
     justify-content:space-between;
+    flex-flow:wrap;
 }
 h1 {
     font-size: 3rem;
