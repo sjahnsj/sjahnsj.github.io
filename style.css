@@ -42,6 +42,7 @@ body {
 .title {
     display:flex;
     justify-content:space-between;
+    border-bottom : 1px solid royalblue;
     
 }
 h1 {
@@ -49,7 +50,7 @@ h1 {
     margin-botton: 50px;
 }
 .bg {
-    margin-top: 5%;
+    margin-top: 3%;
     background-color: #F6F8FA;
 }
 section .pofolio-me {
