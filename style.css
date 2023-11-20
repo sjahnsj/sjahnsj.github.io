@@ -17,7 +17,7 @@ ul {
     margin-left: 25px;
 }
 .title a {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .btn-link {
@@ -63,7 +63,7 @@ section .pofolio-me {
 }
 
 section .pofolio-me .portfolio-inner{
-    width: 80%;
+    width: 75%;
 /*     margin-right: 5%; */
     background-color: #fff;
     
