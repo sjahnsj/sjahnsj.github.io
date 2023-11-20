@@ -17,7 +17,8 @@ ul {
     margin-left: 25px;
 }
 .title a {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-weight:bold;
 }
 
 .btn-link {
@@ -40,14 +41,14 @@ body {
 
 /**** portfolio ***/
 .title {
-    margin: 0 20px;
+    margin: 0 30px 20px;
     display:flex;
     justify-content:space-between;
    
     
 }
 h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
 /*     margin-bottom: 20px; */
 }
 .bg {
