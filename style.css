@@ -42,12 +42,12 @@ body {
 .title {
     display:flex;
     justify-content:space-between;
-    border-bottom : 1px solid royalblue;
+   
     
 }
 h1 {
     font-size: 3rem;
-    margin-botton: 50px;
+    margin-bottom: 20px;
 }
 .bg {
     margin-top: 3%;
