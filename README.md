@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div >
 <a style="font-size:20px; font-weight:bold; color:gray;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a style="color:gray;" href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
-<a style="color:gray;" href="https://github.com/sjahnsj">github.com/sjahnsj</a> <br>
+<a style="color:gray;" href="https://github.com/sjahnsj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>github.com/sjahnsj</a> <br>
 
 
 
@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 ### 🔨 <span style="color:gray">Tool</span>  
 <div style="background-color:#F6F8FA; padding:15px">
 <p>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/vim-000000?style=for-the-badge&logo=vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/VScode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=Anaconda&logoColor=white"/>
