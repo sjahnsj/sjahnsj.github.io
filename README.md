@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <a style="color:gray;" href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
 <a style="color:gray;" href="https://github.com/sjahnsj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a> <br>
 <a style="color:gray;" href="https://github.com/sjahnsj">github.com/sjahnsj</a> <br>
+<a style="color:gray;" href="./portfolio.html"><img src = "myportpolio.png"/></a> <br>
+<a style="color:gray;" href="./portfolio.html">포트폴리오 보기</a> <br>
 
 
 
