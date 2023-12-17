@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div >
 <a style="font-size:20px; font-weight:bold; color:gray;" href="mailto:sjahnsj@gmail.com">📧 E-mail</a> <br>
 <a style="color:gray;" href="mailto:sjahnsj@gmail.com">sjahnsj@gmail.com</a> <br>
+<a style="color:gray;" href="https://github.com/sjahnsj">github.com/sjahnsj</a> <br>
 
 
 
